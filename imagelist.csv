@@ -6,7 +6,7 @@ docker.io/kubernetesui/dashboard-web:1.7.0,__REPOMIRROR__/docker.io/kubernetesui
 docker.io/library/busybox:latest,__REPOMIRROR__/docker.io/library/busybox:latest
 docker.io/library/kong:3.8,__REPOMIRROR__/docker.io/library/kong:3.8
 docker.io/otel/opentelemetry-collector-contrib:0.153.0,__REPOMIRROR__/docker.io/otel/opentelemetry-collector-contrib:0.153.0
-docker.io/rancher/local-path-provisioner:v0.0.31,__REPOMIRROR__/docker.io/rancher/local-path-provisioner:v0.0.31
+docker.io/rancher/local-path-provisioner:v0.0.36,__REPOMIRROR__/docker.io/rancher/local-path-provisioner:v0.0.36
 ghcr.io/headlamp-k8s/headlamp:v0.42.0,__REPOMIRROR__/ghcr.io/headlamp-k8s/headlamp:v0.42.0
 ghcr.io/k8snetworkplumbingwg/multus-cni:v4.2.0-thick,__REPOMIRROR__/ghcr.io/k8snetworkplumbingwg/multus-cni:v4.2.0-thick
 ghcr.io/projectcontour/contour:v1.33.5,__REPOMIRROR__/ghcr.io/projectcontour/contour:v1.33.5
